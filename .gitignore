@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Ignore model files or large data
+*.h5
+*.pth
+*.pt
+*.pkl
+*.joblib
+
+# Ignore OS generated files
+Thumbs.db
