@@ -1,0 +1,7 @@
+flask
+requests
+python-dotenv
+celery
+redis
+sentry-sdk
+gunicorn
